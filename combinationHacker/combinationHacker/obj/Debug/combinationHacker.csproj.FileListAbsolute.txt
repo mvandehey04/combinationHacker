@@ -1,0 +1,7 @@
+H:\c# programming\combinationHacker\combinationHacker\bin\Debug\combinationHacker.exe
+H:\c# programming\combinationHacker\combinationHacker\bin\Debug\combinationHacker.pdb
+H:\c# programming\combinationHacker\combinationHacker\obj\Debug\combinationHacker.csprojResolveAssemblyReference.cache
+H:\c# programming\combinationHacker\combinationHacker\obj\Debug\combinationHacker.MainForm.resources
+H:\c# programming\combinationHacker\combinationHacker\obj\Debug\combinationHacker.csproj.GenerateResource.Cache
+H:\c# programming\combinationHacker\combinationHacker\obj\Debug\combinationHacker.exe
+H:\c# programming\combinationHacker\combinationHacker\obj\Debug\combinationHacker.pdb
